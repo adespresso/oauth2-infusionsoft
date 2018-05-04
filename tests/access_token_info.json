@@ -1,0 +1,10 @@
+{
+  "email": "mock_email",
+  "family_name": "mock_family_name",
+  "given_name": "mock_given_name",
+  "global_user_id": 1,
+  "infusionsoft_id": "mock_infusionsoft_id",
+  "middle_name": "mock_middle_name",
+  "preferred_name": "mock_preferred_name",
+  "sub": "mock_sub"
+}
